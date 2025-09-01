@@ -9,9 +9,13 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
-
-Add code here
+```
+items=[153,147,124,102]
+print(sum(items))
+```
 
 ## Output
+<img width="645" height="237" alt="image" src="https://github.com/user-attachments/assets/ec4ce5aa-d6d3-4ec0-ba1c-ef7375ea722c" />
 
 ## Result
+Thus the program executed successfully.
